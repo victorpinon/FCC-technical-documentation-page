@@ -1,0 +1,32 @@
+.main-section {
+    margin-top: 3em;
+    margin-bottom: 3em;
+    padding-right: 2em;
+    padding-left: 2em;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+header {
+    font-family: 'Poppins';
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+article {
+    font-family: 'Roboto';
+    font-size: 1.3em;
+    color: rgb(78, 78, 78);
+}
+
+code {
+    font-family: 'Roboto Mono', monospace;
+}
+
+footer {
+    bottom: 0;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Poppins';
+    font-size: 1em;
+}
